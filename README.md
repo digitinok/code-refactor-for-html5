@@ -25,7 +25,7 @@ This is how the deplayed page looks like:
 
 ## Credits
 
-Thanks to Drew, Sade and Lee.
+N/A
 
 ## License
 
