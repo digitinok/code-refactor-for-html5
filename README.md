@@ -19,7 +19,9 @@ n/a
 
 ## Usage
 
-![alt Website screenshot](assets/images/screenshot1.png)
+This is how the deplayed page looks like:
+
+![alt Website screenshot](assets/images/code-refactor-screenshot.png)
 
 ## Credits
 
