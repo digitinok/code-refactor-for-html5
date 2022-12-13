@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header setup */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* header setup */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+/* seo color change */
+.seo {
     color: #d9dcd6;
 }
 
+/* navigation bar setup */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +36,29 @@ nav {
     font-size: 20px;
 }
 
+/* navigation bar setup - no list bullet points */
 nav ul {
     list-style-type: none;
 }
 
+/* navigation bar - list elements on one line */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Link setup */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* paragraph foont size */
 p {
     font-size: 16px;
 }
 
+/* set background picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +68,26 @@ p {
     background-position: center;
 }
 
+/* left floting images */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* right floting images */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* main content setup */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* side bar setup */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -86,22 +99,26 @@ aside {
     background-color: #2589bd;
 }
 
+/* side bar setup */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* side bar header setup */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* side bar logo setup */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* main content setup */
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,15 +128,18 @@ aside {
     color: #ffffff;
 }
 
+/* main image setup */
 .content img {
     max-height: 200px;
 }
 
+/* main content header setup */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* footer setup */
 footer {
     padding: 30px;
     clear: both;
@@ -127,6 +147,7 @@ footer {
     text-align: center;
 }
 
-.footer {
+/* footer header setup */
+footer h2 {
     font-size: 20px;
 }
